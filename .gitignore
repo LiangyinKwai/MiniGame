@@ -1,0 +1,11 @@
+.idea
+project.xcworkspace
+.vs
+Debug.Win32
+*.xcuserdatad
+*.udf
+*.iml
+cmake-build-debug
+
+
+
